@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolic1992" alt="nikolic1992" /></a> </p>
 
-- 🔭 I’m currently working on [React TypeScript project](https://travel-marvel.vercel.app/)
+- 🔭 I’m currently working on Personal website and some eCommerce as well :)
 
 - 👯 I’m looking to collaborate on **Making modern Web Applications**
 
