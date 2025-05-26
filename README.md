@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Stevan</h1>
-<h3 align="center"><b>A passionate Frontend Developer from Sydney, Australia</b></h3>
+<h3 align="center"><b>A passionate Fullstack Developer from Sydney, Australia</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolic1992&label=Profile%20views&color=0e75b6&style=flat" alt="nikolic1992" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolic1992" alt="nikolic1992" /></a> </p>
 
-- 🔭 I’m currently working on Personal website and some eCommerce as well :)
+- 🔭 I’m currently working on **e-Commerce website**
 
 - 👯 I’m looking to collaborate on **Making modern Web Applications**
 
-- 🤝 I’m looking for help with **ReactJS && React TypeScript, where we can learn and build together**
+- 🤝 I’m looking for help with **React JS/TS, where we can learn and build together**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **stevannikolic1992@yahoo.com**
 
