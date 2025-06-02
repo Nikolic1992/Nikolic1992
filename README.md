@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stevan</h1>
 <h3 align="center"><b>A passionate Fullstack Developer from Sydney, Australia</b></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolic1992&label=Profile%20views&color=0e75b6&style=flat" alt="nikolic1992" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolic1992" alt="nikolic1992" /></a> </p>
 
-- 🔭 I’m currently working on **e-Commerce website**
+- 🔭 I’m currently working on **AI with Python - Harvard University**
 
 - 👯 I’m looking to collaborate on **Making modern Web Applications**
 
