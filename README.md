@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Project**
 
-- 👯 I’m looking to collaborate on **Making modern Web Applications**
+- 👯 I’m looking to collaborate on **Web Applications**
 
 - 🤝 I’m looking for help with **React JS/TS, where we can learn and build together**
 
