@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolic1992" alt="nikolic1992" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently attending TAFE NSW **Certificate IV Web Development**
 
 - 👯 I’m looking to collaborate on **Web and Mobile Applications**
 
