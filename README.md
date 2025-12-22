@@ -5,7 +5,7 @@
   🔭 Currently advancing my expertise at <b>TAFE NSW</b>, pursuing a <b>Certificate IV in Web Development</b><br>
   👯 Open to collaborating on <b>innovative Web Applications</b>, building scalable and maintainable solutions.<br>
   💬 Passionate about <b>Full-Stack Development</b> and <b>AI-powered</b> integrations.<br>
-  📫 Connect with me via <a href="business@sntech.io" target="_blank"><b>business@sntech.io</b></a> for professional inquiries or collaboration opportunities.
+  📫 Connect with me via <a href="mailto:business@sntech.io" target="_blank"><b>business@sntech.io</b></a> for professional inquiries or collaboration opportunities.
 </p>
 
 <h3 align="center">Languages & Tools:</h3>
