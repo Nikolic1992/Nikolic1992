@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stevan</h1>
-<h3 align="center"><b>A Frontend-Focused Full-Stack Developer from Sydney, Australia</b></h3>
+<h3 align="center"><b>A Fullstack Web Developer from Sydney, Australia</b></h3>
 
 <p align="left">
   🔭 Currently advancing my expertise at <b>TAFE NSW</b>, pursuing a <b>Certificate IV in Web Development</b><br>
