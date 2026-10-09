@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/nikolic1992/">
     <img src="https://img.shields.io/badge/LinkedIn-Stevan_Nikolic-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:business@sntech.io">
+  <a href="mailto:business@nikolicstevan.au">
     <img src="https://img.shields.io/badge/Email-business%40sntech.io-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
