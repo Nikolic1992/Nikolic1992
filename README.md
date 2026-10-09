@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Stevan_Nikolic-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:business@nikolicstevan.au">
-    <img src="https://img.shields.io/badge/Email-business%40sntech.io-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-business%40nikolicstevan.au-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
