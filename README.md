@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://sntech.io">
-    <img src="https://img.shields.io/badge/Portfolio-sntech.io-111827?style=flat-square" alt="Portfolio">
+  <a href="https://nikolicstevan.au">
+    <img src="https://img.shields.io/badge/Portfolio-nikolicstevan.au-111827?style=flat-square" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/nikolic1992/">
     <img src="https://img.shields.io/badge/LinkedIn-Stevan_Nikolic-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
